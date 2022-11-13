@@ -1,3 +1,4 @@
+//Write a program to sort the given array
 public class SortArray {
     public static void main(String[] args) {
         int[]arr = {1,9,2,8,3,7,4,6,5};
