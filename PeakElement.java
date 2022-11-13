@@ -1,7 +1,7 @@
 //Find a peak element which is not smaller than its neighbours
 public class PeakElement {
     public static void main(String[] args) {
-        int[] arr = { 10, 3, 2, 4, 1, 0 };
+        int[] arr = {10, 3, 2, 4, 1, 0};
         int n = arr.length;
         PeakElement m = new PeakElement();
 
@@ -24,5 +24,6 @@ public class PeakElement {
             }
         }
         return 0;
+
     }
 }
